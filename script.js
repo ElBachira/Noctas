@@ -41,45 +41,45 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Te Sigo Amando",
-            artist: "Juan Gabriel",
+            title: "Perdón",
+            artist: "Camila",
             src: "song.mp3", 
-            lyrics: `Que seas muy feliz
-Estés donde estés
-Cariño
-No importa que ya
-No vuelvas jamás
-Conmigo
-Deseo, mi amor
-Que sepas también
-Que te amo
-Que no te olvidé
-Que nunca podré
-Te extraño
-Que seas muy feliz
-Que encuentres amor
-Mi vida
-Que nunca, mi amor
-Te digan adiós
-Un día
-Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
-Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
-Que seas muy feliz
-Que seas muy feliz
-Mientras que yo
-Te sigo amando
-Deseo, mi amor
-Que sepas también
-Que te amo
-Que no te olvidé
-Que nunca podré
-Te extraño
-Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
-Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
-Que seas muy feliz
-Que seas muy feliz
-Mientras que yo
-¡Te sigo amando!`,
+            lyrics: `Prometí quererte para siempre
+Y era cierto, no había dudas en mi mente
+Si el destino tuvo planes diferentes
+Y te herí por accidente, perdón
+Si me solté de ti
+Si no te defendí
+Fue que mi corazón estaba ciego
+Qué estupidez perderte, para verlo
+Lo siento
+No espero amor ni odio
+Ya tengo bastante con mi dolor
+Maldigo el episodio
+Lo peor es que yo fui quien lo escribió
+Me esperan los demonios
+Que deja tu olvido, que juegan conmigo
+Ya sé que es cobarde pedirte en una canción
+Perdón
+Perdón
+Si pudiera regresar el tiempo
+Esta vez no escondería lo que siento
+El silencio fue el engaño más violento
+Mi terrible experimento falló
+Si te alejé de mí
+Si te fallé y me fui
+Fue porque mis mentirás me daban miedo
+Tú me creíste y yo me volví tan bueno
+Fingiendo
+No espero amor ni odio
+Ya tengo bastante con mi dolor
+Maldigo el episodio
+Lo peor es que yo fui quien lo escribió
+Me esperan los demonios
+Que deja tu olvido, que juegan conmigo
+Ya sé que es cobarde pedirte en una canción
+Perdón
+Perdón`,
         }
     ];
 
